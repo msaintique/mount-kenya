@@ -1,0 +1,53 @@
+
+.head1
+{
+    background-color: rgb(7, 7, 102);
+    height: 40px;
+    width: 100%;
+    
+}
+.head1 a
+{
+    padding: 10px;
+    margin-top:-20px;
+    color: white;
+    font-size: 10px;
+    text-decoration: none;
+    font-family: lucida sans Regular;
+}
+.head2 
+{
+    background-color: rgb(7, 7, 102);
+    height: 40px;
+    width: 100%;
+}
+.head2 a
+{
+    margin-top:-15px;
+    padding: 15px;
+    color: white;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: lucida sans Regular;
+    height: 40px;
+    width: 100%;
+}
+.logo1 img
+{
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+}
+.contact
+{
+   margin-left: 300px; 
+}
+.tsap
+{
+    margin-left: 300px;
+    color: orangered;
+}   
+.em
+{
+    
+}
