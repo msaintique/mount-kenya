@@ -3,7 +3,7 @@
 {
     background-color: rgb(7, 7, 102);
     height: 40px;
-    width: 100%;
+    
     
 }
 .head1 a
@@ -11,26 +11,27 @@
     padding: 10px;
     margin-top:-20px;
     color: white;
-    font-size: 10px;
+    font-size: 12px;
     text-decoration: none;
     font-family: lucida sans Regular;
 }
 .head2 
 {
     background-color: rgb(7, 7, 102);
-    height: 40px;
-    width: 100%;
+    height: 60px;
+   
 }
 .head2 a
 {
     margin-top:-15px;
     padding: 15px;
     color: white;
-    font-size: 11px;
+    font-size: 16px;
     text-decoration: none;
     font-family: lucida sans Regular;
     height: 40px;
-    width: 100%;
+    text-align: center;
+   
 }
 .logo1 img
 {
@@ -38,16 +39,35 @@
     height: 30px;
     margin-top: -10px;
 }
-.contact
+.contact h3
 {
-   margin-left: 300px; 
+   margin-left:600px;
+   display: inline;
+
+   spacing: normal;
+
 }
-.tsap
+.contact p
 {
-    margin-left: 300px;
-    color: orangered;
-}   
-.em
+    margin-left:600px; 
+    display: inline;
+}
+img 
 {
-    
+   width:100%;
+}
+.std1 p
+{
+    background-color: rgb(183, 185, 185);
+    height: 40px;
+    font-size: 40px;
+    margin-top:-1px;
+    padding: 20px;
+}
+.std1 a 
+{
+ text-decoration: none;
+ margin-left: 1200px;
+ margin-top: -9px;
+ font-size: 17px;
 }
