@@ -19,11 +19,10 @@
 {
     background-color: rgb(7, 7, 102);
     height: 60px;
-   
 }
 .head2 a
 {
-    margin-top:-15px;
+    margin-top:-25px;
     padding: 15px;
     color: white;
     font-size: 16px;
@@ -39,19 +38,7 @@
     height: 30px;
     margin-top: -10px;
 }
-.contact h3
-{
-   margin-left:600px;
-   display: inline;
 
-   spacing: normal;
-
-}
-.contact p
-{
-    margin-left:600px; 
-    display: inline;
-}
 img 
 {
    width:100%;
@@ -64,10 +51,26 @@ img
     margin-top:-1px;
     padding: 20px;
 }
-.std1 a 
+.a a 
 {
  text-decoration: none;
- margin-left: 1200px;
- margin-top: -9px;
- font-size: 17px;
+ margin-left: 1230px;
+ margin-top: -20px;
+ 
+
+}
+.contact
+{
+    margin-left: 800px;
+    margin-top: -49px;
+    padding-top: 5px;
+    color:orangered;
+}
+.socio{
+    margin-left: 150px;
+    margin-top: -35px;
+}
+.ema{
+    margin-left: 300px;
+    margin-top: -35px;
 }
