@@ -1,10 +1,8 @@
-
+/* navbar1*/
 .head1
 {
     background-color: rgb(7, 7, 102);
-    height: 40px;
-    
-    
+    height: 50px;   
 }
 .head1 a
 {
@@ -13,52 +11,39 @@
     color: white;
     font-size: 12px;
     text-decoration: none;
-    font-family: lucida sans Regular;
+    font-family:'Lucida Sans';
+    margin-left: 30px;
 }
+/* navbar2*/
 .head2 
 {
     background-color: rgb(7, 7, 102);
-    height: 60px;
+    height: 80px;
 }
 .head2 a
 {
-    margin-top:-25px;
-    padding: 15px;
+    margin-top:-20px;
+    padding: 10px;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
-    font-family: lucida sans Regular;
-    height: 40px;
-    text-align: center;
+    font-family:'Lucida Sans';
+    margin-left: 30px;
    
 }
+/* logo of university*/
 .logo1 img
 {
     width: 30px;
     height: 30px;
     margin-top: -10px;
 }
-
+/* background image*/
 img 
 {
    width:100%;
 }
-.std1 p
-{
-    background-color: rgb(183, 185, 185);
-    height: 40px;
-    font-size: 40px;
-    margin-top:-1px;
-    padding: 20px;
-}
-.a a 
-{
- text-decoration: none;
- margin-left: 1230px;
- margin-top: -20px;
- 
-
-}
+/* call,whatsap,email*/
 .contact
 {
     margin-left: 800px;
@@ -73,4 +58,96 @@ img
 .ema{
     margin-left: 300px;
     margin-top: -35px;
+}
+/* inside contact us*/
+.con
+{
+    background-color: rgb(183, 185, 185);
+    height: 100px;
+    font-size: 30px;
+    margin-top:-1px;
+    padding: 10px;   
+    
+}
+.con p
+{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.con a
+{
+    margin-left: 1200px;
+    font-size: 13px;
+    margin-top: 0px;
+    padding: 20px;
+    text-decoration: none;
+    color:rgb(59, 59, 59);
+    padding-left: 10px;
+}
+.para1
+{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+/*contact us form*/
+.form1
+{
+    margin-left:40px;
+}
+.form1 input
+{
+    width: 300px;
+    height: 40px;
+}
+.form1 label
+{
+    font-size: 20px;
+    font-family: Arial;
+    color:rgb(59, 59, 59);
+}
+.form1 textarea
+{
+    height: 80px;
+    width: 300px;
+}
+.na input
+{
+    height: 40px;
+    width: 138px;
+}
+.sub input
+{
+    background-color:rgb(192, 188, 188);
+    font-size: 20px;
+    width: 90px;
+    border: 1px solid rgb(192, 188, 188);
+}
+/* enterprise*/
+.para2 p
+{
+    color:rgb(59, 59, 59);
+
+}
+.pho1 hr
+{
+ width: 300px;
+ margin-left: 200px;
+ margin-top: 20px;
+
+}
+.pho11 input
+{
+    width: 100px;
+    height: 40px;
+    margin-left: 507px;
+    margin-top:40;
+}
+.pho111
+{ 
+    margin-left: 610px;
+    width: 300px;
+    margin-top: -30px;
+
+
 }
