@@ -89,6 +89,8 @@ img
 {
     margin-top: 40px;
     margin-left: 50px;
+    font-size: 15px;
+    color: rgb(59, 59, 59);;
 }
 /*contact us form*/
 .form1
@@ -148,6 +150,37 @@ img
     margin-left: 610px;
     width: 300px;
     margin-top: -30px;
-
-
+}
+.div2
+{
+    margin-left: 400px;
+    margin-top: -330px;
+    font-family: sans-serif;
+}
+.div3
+{
+    margin-left: 800px;
+    margin-top: -330px;
+    font-family: sans-serif;
+}
+.main
+{
+    margin-left: 1050px;
+    margin-top:-1170px;
+    border: 1px solid rgb(196, 193, 193);
+}
+.main a
+{
+    text-decoration: none;
+    margin-left: 30px;
+    padding: 5px;
+    margin-top: 30px;
+    color: rgb(27, 26, 26);
+}
+main h2
+{
+    margin-left:50px;
+    padding: 5px;
+    margin-top: 30px;
+    color: rgb(27, 26, 26);
 }
