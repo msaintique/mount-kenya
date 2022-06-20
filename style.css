@@ -153,13 +153,13 @@ img
 }
 .div2
 {
-    margin-left: 400px;
+    margin-left: 450px;
     margin-top: -330px;
     font-family: sans-serif;
 }
 .div3
 {
-    margin-left: 800px;
+    margin-left: 860px;
     margin-top: -330px;
     font-family: sans-serif;
 }
@@ -183,4 +183,133 @@ main h2
     padding: 5px;
     margin-top: 30px;
     color: rgb(27, 26, 26);
+}
+.education img
+{
+ margin-left: 50px;
+}
+.learning
+{
+    margin-left: 46px;
+    margin-top: -38px;
+}
+.learning a
+{
+  text-decoration: none;
+  color:  rgb(27, 26, 26);
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.learning p
+{
+    color:  rgb(27, 26, 26);
+    font-family: sans-serif;
+}
+.torch1
+{
+    margin-left: 46px;
+    margin-top: -38px; 
+}
+.torch
+{
+    margin-left: 450px;
+    margin-top: -140px;
+}
+.torch a
+{
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(27, 26, 26);
+}
+.torch p
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+}
+.user
+{
+    margin-left: 870px;
+    margin-top: -140px;
+}
+.user p
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+}
+.user a
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+    font-size: 20px;
+    text-decoration: none;
+}
+.user1
+{
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.inter1
+{
+    margin-left: 46px;
+    margin-top: -38px; 
+}
+.inter1 a
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+    font-size: 20px;
+    text-decoration: none;
+}
+.inter1 p
+{
+  font-family: sans-serif;
+  color:  rgb(27, 26, 26);
+}
+.heart
+{
+    margin-left: 450px;
+    margin-top: -140px; 
+}
+.heart1
+{
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.heart1 a
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+    font-size: 20px;
+    text-decoration: none;  
+}
+.heart1 p
+{
+    font-family: sans-serif;
+    color:  rgb(27, 26, 26);  
+}
+.star
+{
+    margin-left: 870px;
+    margin-top: -140px;
+}
+.star1
+{
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.star1 a
+{
+    color: rgb(27, 26, 26); 
+    font-family: sans-serif; 
+    font-size: 20px;
+    text-decoration: none;   
+}
+.star1 p
+{
+    font-family: sans-serif;
+    color: rgb(27, 26, 26); 
+}
+.imag
+{
+    margin-left: 35px;
 }
